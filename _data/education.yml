@@ -8,14 +8,14 @@
   
   - degree: Master of Arts, Sociology
   uni: Indiana Unviersity, Bloomington
-  year: 1998 &mdash; 2001
-  awards:
-    - award: Nominated for the Sutherland Teaching Award
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  # year: 1998 &mdash; 2001
+  # awards:
+  #   - award: Nominated for the Sutherland Teaching Award
+  # summary: If you had any meaningful roles at college, feel free to write about them here
   
   - degree: Bachelor of Arts, Sociology
   uni: Southern Illinois University, Carbondale
-  year: 1994 &mdash; 1998
+  # year: 1994 &mdash; 1998
   awards:
     - award: Magna Cumme Laude graduate, 3.89 GPA
   summary: If you had any meaningful roles at college, feel free to write about them here
